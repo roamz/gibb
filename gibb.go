@@ -20,7 +20,7 @@ package gibb
 import (
 	"sync"
 
-	"github.com/dagoof/fill"
+	"github.com/roamz/fill"
 )
 
 // message contains a snapshot of a value.
